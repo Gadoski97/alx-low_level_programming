@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A program that prints a line with puts function without using print function
+ * main - A program that prints a line with puts function
  * Return: 0 (Genius)
  */
 int main(void)
